@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ahmed Gamal and I'm a Front End Devolper</p>
+<p align="left">My name is Ahmed Gamal and I'm a Front End Developer</p>
 
 ###
 
